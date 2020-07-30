@@ -1,0 +1,1 @@
+PureCrmGenerator.exe --settingsFilePath=".\pureCrmCodeGeneratorSetting.xml" --connectionString="AuthType=AD;Url=http://crm/Pure/main.aspx;"

@@ -1,0 +1,12 @@
+m.vs/PureCrmMetaGenerator/v16
+mPureCrmGenerator/bin/Debug
+mPureCrmGenerator/bin/Debug/Plugins
+mPureCrmGenerator/bin/Release
+mPureCrmGenerator/obj/Debug
+mPureCrmGenerator/obj/Release
+mPureCrmGeneratorCmd/bin/Debug
+mPureCrmGeneratorCmd/bin/Release
+mPureCrmGeneratorCmd/obj/Debug
+mPureCrmGeneratorCmd/obj/Release
+mPureCrmGeneratorTest/obj/Debug
+mPureCrmGeneratorTest/obj/Release
