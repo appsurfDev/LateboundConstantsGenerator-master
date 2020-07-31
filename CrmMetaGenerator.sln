@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27004.2008
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PureCrmGenerator", "PureCrmGenerator\PureCrmGenerator.csproj", "{78225251-A3A4-471F-9066-00D7EB90F3FA}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrmGenerator", "CrmGenerator\CrmGenerator.csproj", "{78225251-A3A4-471F-9066-00D7EB90F3FA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PureCrmGeneratorTest", "PureCrmGeneratorTest\PureCrmGeneratorTest.csproj", "{4F684FFE-CF62-4719-B076-DA9961FAC997}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrmGeneratorTest", "CrmGeneratorTest\CrmGeneratorTest.csproj", "{4F684FFE-CF62-4719-B076-DA9961FAC997}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PureCrmGeneratorCmd", "PureCrmGeneratorCmd\PureCrmGeneratorCmd.csproj", "{E97AB142-2D93-467C-80B2-58140AC25B79}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrmGeneratorCmd", "CrmGeneratorCmd\CrmGeneratorCmd.csproj", "{E97AB142-2D93-467C-80B2-58140AC25B79}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
