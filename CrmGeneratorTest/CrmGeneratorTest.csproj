@@ -151,11 +151,11 @@
     </None>
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\PureCrmGeneratorCmd\CrmGeneratorCmd.csproj">
+    <ProjectReference Include="..\CrmGeneratorCmd\CrmGeneratorCmd.csproj">
       <Project>{e97ab142-2d93-467c-80b2-58140ac25b79}</Project>
       <Name>CrmGeneratorCmd</Name>
     </ProjectReference>
-    <ProjectReference Include="..\PureCrmGenerator\CrmGenerator.csproj">
+    <ProjectReference Include="..\CrmGenerator\CrmGenerator.csproj">
       <Project>{78225251-a3a4-471f-9066-00d7eb90f3fa}</Project>
       <Name>CrmGenerator</Name>
     </ProjectReference>

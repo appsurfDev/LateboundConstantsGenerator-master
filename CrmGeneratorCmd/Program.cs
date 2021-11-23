@@ -12,7 +12,7 @@ namespace Rappen.XTB.LCG.Cmd
                 Parser.Default.ParseArguments<CommandLineOptions>(args)
                 .WithParsed(o =>
                 {
-                    Console.WriteLine($"********************** Authorized By Pure {DateTime.Now.Year} Author: Ian Mok **********************");
+                    Console.WriteLine($"********************** Authorized By Appsurfs {DateTime.Now.Year} Author: Ian Mok **********************");
 
                     var lcgHelper = new LCGHelper();
                     lcgHelper.LoadSettingsFromFile(o.SettingsFilePath);

@@ -153,7 +153,7 @@
     <None Include="readme.md" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\PureCrmGenerator\PureCrmGenerator.csproj">
+    <ProjectReference Include="..\CrmGenerator\CrmGenerator.csproj">
       <Project>{78225251-a3a4-471f-9066-00d7eb90f3fa}</Project>
       <Name>PureCrmGenerator</Name>
     </ProjectReference>
